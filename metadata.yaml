@@ -1,0 +1,33 @@
+_repo: The-Sunny-Side-of-the-Street_65520
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Haley, Bart
+    alias: Haley, Bartley
+    birthdate: 1876
+    gutenberg_agent_id: '1416'
+    url: http://www.gutenberg.org/2009/agents/1416
+  - agent_name: Graham, Charles
+    gutenberg_agent_id: '53390'
+    url: http://www.gutenberg.org/2009/agents/53390
+creator:
+  author:
+    agent_name: Wilder, Marshall Pinckney
+    alias: Wilder, Marshall P.
+    birthdate: 1859
+    deathdate: 1915
+    gutenberg_agent_id: '8044'
+    url: http://www.gutenberg.org/2009/agents/8044
+description: ''
+gutenberg_issued: '2021-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sunny Side of the Street
+url: http://www.gutenberg.org/ebooks/65520
